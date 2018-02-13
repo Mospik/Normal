@@ -1,4 +1,7 @@
 f = open('vivod.txt', 'w')
 f.write('Hello World !' + '\n')
 f.write('Bye-Bye YEEEEE !' + '\n')
-f.close() 
+f.close()
+f = open('vivod.txt', 'w')
+f.write('YA OBNOVIL' + '\n')
+f.close()
